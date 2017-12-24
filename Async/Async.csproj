@@ -13,6 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Test\" />
+    <Content Remove="Views\Test\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Controllers\TestController.cs" />
   </ItemGroup>
 </Project>
