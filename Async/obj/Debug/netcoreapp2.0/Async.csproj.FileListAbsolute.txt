@@ -1,0 +1,11 @@
+/Users/rdpetrusek/Projects/Async/Async/bin/Debug/netcoreapp2.0/Async.deps.json
+/Users/rdpetrusek/Projects/Async/Async/bin/Debug/netcoreapp2.0/Async.runtimeconfig.json
+/Users/rdpetrusek/Projects/Async/Async/bin/Debug/netcoreapp2.0/Async.runtimeconfig.dev.json
+/Users/rdpetrusek/Projects/Async/Async/bin/Debug/netcoreapp2.0/Async.dll
+/Users/rdpetrusek/Projects/Async/Async/bin/Debug/netcoreapp2.0/Async.pdb
+/Users/rdpetrusek/Projects/Async/Async/obj/Debug/netcoreapp2.0/Async.csprojResolveAssemblyReference.cache
+/Users/rdpetrusek/Projects/Async/Async/obj/Debug/netcoreapp2.0/Async.csproj.CoreCompileInputs.cache
+/Users/rdpetrusek/Projects/Async/Async/obj/Debug/netcoreapp2.0/Async.AssemblyInfoInputs.cache
+/Users/rdpetrusek/Projects/Async/Async/obj/Debug/netcoreapp2.0/Async.AssemblyInfo.cs
+/Users/rdpetrusek/Projects/Async/Async/obj/Debug/netcoreapp2.0/Async.dll
+/Users/rdpetrusek/Projects/Async/Async/obj/Debug/netcoreapp2.0/Async.pdb

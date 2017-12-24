@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+Layout = null;
+var skips = new int[]{51, 52, 126, 127, 157, 395, 403, 693, 759, 760, 766, 768, 802, 814, 830, 842, 852, 853};
+var skipsHash = skips.ToHashSet(); 
+}
+<html>
+    <head>
+    <title>Petrusek Wedding</title>
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.12/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+    <script src="//code.jquery.com/jquery-latest.js"></script>
+    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.12/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+    </head>
+    <body>
+    @for(var i=1; i<855; i++){
+    if(skipsHash.Contains(i)){
+        continue;
+    }
+    <text> 
+    @Html.Raw(string.Format("<a data-featherlight=\"https://petrusek-wedding.azureedge.net/{0}.jpg\" href=\"#\"><img src=\"https://petrusek-wedding.azureedge.net/small-p/{0}.jpg\" style=\"height:250px\"></a>", i))  
+    </text>
+}
+</body>
+</html>
