@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{3657C875-E259-48A6-BA27-E3B7B8B11A21}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Async/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Async/Views/Home/Index.cshtml">
     <Files>
       <File FileName="Async/Controllers/HomeController.cs" Line="20" Column="72" />
       <File FileName="Async/Startup.cs" Line="45" Column="48" />
-      <File FileName="Async/Views/Home/Index.cshtml" Line="27" Column="1" />
+      <File FileName="Async/Views/Home/Index.cshtml" Line="22" Column="42" />
       <File FileName="Async/Controllers/TestController.cs" Line="16" Column="27" />
-      <File FileName="Async/Views/Test/Index.cshtml" Line="15" Column="146" />
       <File FileName="Async/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
       <File FileName="Async/Views/_ViewStart.cshtml" Line="1" Column="1" />
       <File FileName="Async/Properties/launchSettings.json" Line="1" Column="1" />
